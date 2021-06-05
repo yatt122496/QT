@@ -2,4 +2,10 @@
 /QCalculator
 /QDesktop
 /v1.5
-/*/build/*
+/*/build/*_autogen
+/*/build/CMakeFiles
+/*/build/*/qrc
+/*/build/*.cmake
+/*/build/*.txt
+/*/build/Makefile
+/*/build/*.cpp
