@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"qdialog": "cpp",
+			"string": "cpp",
+			"qjsonobject": "cpp",
+			"ostream": "cpp",
+			"qwebenginepage": "cpp",
+			"vector": "cpp",
+			"*.rh": "cpp",
+			"qwidget": "cpp",
+			"system_error": "cpp",
+			"xlocale": "cpp",
+			"qwebenginehistory": "cpp",
+			"iosfwd": "cpp",
+			"xstring": "cpp",
+			"xutility": "cpp",
+			"qtgui": "cpp",
+			"qapplication": "cpp",
+			"qobject": "cpp",
+			"qtguidepends": "cpp",
+			"qtcore": "cpp",
+			"qmainwindow": "cpp",
+			"qvariant": "cpp",
+			"new": "cpp",
+			"qplaintextedit": "cpp",
+			"qgridlayout": "cpp",
+			"qsettings": "cpp",
+			"qaction": "cpp",
+			"qmenubar": "cpp",
+			"qlabel": "cpp",
+			"qpainter": "cpp",
+			"qlineedit": "cpp",
+			"qtextedit": "cpp",
+			"qcombobox": "cpp",
+			"qstackedwidget": "cpp",
+			"qmenu": "cpp",
+			"qpushbutton": "cpp",
+			"qsplitter": "cpp",
+			"limits": "cpp",
+			"qtablewidgetitem": "cpp",
+			"qtablewidget": "cpp"
+		}
+	}
+}

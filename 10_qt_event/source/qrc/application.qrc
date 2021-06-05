@@ -1,0 +1,19 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>../../Resource/images/new.png</file>
+        <file>../../Resource/images/open.png</file>
+		<file>../../Resource/images/kie.jpeg</file>
+		<file>../../Resource/images/cut.png</file>
+		<file>../../Resource/images/close.png</file>
+		<file>../../Resource/images/save.png</file>
+		<file>../../Resource/images/paste.png</file>
+		<file>../../Resource/images/copy.png</file>
+		<file>../../Resource/images/Qt.png</file>
+		<file>../../Resource/images/logo.png</file>
+		<file>../../Resource/images/select.png</file>
+		<file>../../Resource/images/stop.png</file>
+		<file>../../Resource/settings/setting.ini</file>
+    </qresource>
+
+</RCC>

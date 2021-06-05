@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"qdialog": "cpp",
+			"string": "cpp",
+			"qjsonobject": "cpp",
+			"ostream": "cpp",
+			"qwebenginepage": "cpp",
+			"vector": "cpp",
+			"*.rh": "cpp",
+			"qwidget": "cpp",
+			"system_error": "cpp",
+			"xlocale": "cpp",
+			"qwebenginehistory": "cpp",
+			"iosfwd": "cpp",
+			"xstring": "cpp",
+			"xutility": "cpp",
+			"qtgui": "cpp",
+			"qapplication": "cpp",
+			"qobject": "cpp",
+			"qtguidepends": "cpp",
+			"qtcore": "cpp",
+			"qmainwindow": "cpp",
+			"qvariant": "cpp",
+			"new": "cpp",
+			"qplaintextedit": "cpp",
+			"qgridlayout": "cpp",
+			"qsettings": "cpp"
+		}
+	}
+}
