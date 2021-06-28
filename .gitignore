@@ -9,3 +9,5 @@
 /*/build/*.txt
 /*/build/Makefile
 /*/build/*.cpp
+*/*/build
+*/*/*.pro.user
